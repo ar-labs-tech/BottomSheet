@@ -5,6 +5,8 @@ BottomSheet implementation of custom modal presentation style.
 ## How it looks like
 
 
+https://user-images.githubusercontent.com/14196441/216781920-1cc74a2c-b5e9-43a9-9eac-c63c9dcf8883.mov
+
 
 ## Usage
 
